@@ -1,2 +1,0 @@
-class TerminologiesController < ApplicationController
-end
